@@ -1,1 +1,1 @@
-# ml-examples
+# Applied ML
